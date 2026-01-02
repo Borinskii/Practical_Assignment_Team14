@@ -374,10 +374,8 @@ def alpha_beta(node, depth, alpha, beta, is_maximizing, max_depth, player_is_max
 
 ## References and Resources
 
-- Minimax Algorithm: [Wikipedia - Minimax](https://en.wikipedia.org/wiki/Minimax)
-- Alpha-Beta Pruning: [Wikipedia - Alpha-Beta Pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
-- Course Materials: Fundamentals of Artificial Intelligence, RTU ORTUS
 - Russell, S. & Norvig, P. "Artificial Intelligence: A Modern Approach" - Game-playing algorithms and heuristic design
+- Course Materials: Fundamentals of Artificial Intelligence, RTU ORTUS
 
 ## License
 
