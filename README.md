@@ -11,7 +11,7 @@ This project implements a strategic binary string manipulation game where player
 **Team 14** - Riga Technical University  
 **Course**: Fundamentals of Artificial Intelligence  
 **Academic Year**: 2024/2025  
-**Instructor**: Alla Anohina-Naumeca
+**Course Teacher**: Alla Anohina-Naumeca
 
 **Repository**: [github.com/Borinskii/Practical_Assignment_Team14](https://github.com/Borinskii/Practical_Assignment_Team14)
 
